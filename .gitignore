@@ -2,6 +2,7 @@ node_modules
 dist
 .idea
 nuxt-build
+/nuxt-build/
 .nuxt
 *.log*
 .nitro

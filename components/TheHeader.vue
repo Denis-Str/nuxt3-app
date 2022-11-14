@@ -7,7 +7,7 @@
 <script setup>
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .the-header-component {
 }
 </style>
