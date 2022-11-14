@@ -8,6 +8,12 @@
 </template>
 
 <script setup>
-// такой маринет тоже работает import { TheHeader } from "#components";
-import TheHeader from "./components/TheHeader";
+// такой маринет тоже работает import TheHeader from "./components/TheHeader";
+import { TheHeader } from "#components";
 </script>
+
+<style lang="scss" scoped>
+h1 {
+  color: $primary;
+}
+</style>
