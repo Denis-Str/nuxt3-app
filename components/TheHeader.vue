@@ -1,16 +1,13 @@
 <template>
-  <div class="TheHeader-component">
+  <div class="the-header-component">
     TheHeader
   </div>
 </template>
 
 <script setup>
-export default {
-  name: "TheHeader",
-};
 </script>
 
-<style lang="scss" scoped>
-.TheHeader-component {
+<style scoped>
+.the-header-component {
 }
 </style>

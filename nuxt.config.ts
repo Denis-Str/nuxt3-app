@@ -27,11 +27,7 @@ export default defineNuxtConfig({
   buildDir: 'nuxt-build',
   autoImports: true,
   components: {
-    dirs: [
-      {
-        path: "~/components/global",
-        global: true
-      },
-    ]
+    global: true,
+    dirs: ['~/components']
   }
 })

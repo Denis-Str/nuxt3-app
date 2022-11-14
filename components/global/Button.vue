@@ -3,8 +3,5 @@
 </template>
 
 <script setup>
-export default {
-  name: "GlobalButton",
-}
 </script>
 <style></style>
